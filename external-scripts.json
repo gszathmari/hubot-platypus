@@ -21,5 +21,6 @@
   "hubot-conspire",
   "hubot-voting",
   "hubot-heroku-keepalive",
-  "hubot-mind-blown"
+  "hubot-mind-blown",
+  "hubot-bitly"
 ]
