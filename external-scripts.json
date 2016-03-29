@@ -1,0 +1,23 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-heroku-keepalive",
+  "hubot-impersonate",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-suggest",
+  "hubot-dogeme",
+  "hubot-tell",
+  "hubot-wikipedia",
+  "hubot-strawpoll",
+  "hubot-xkcd",
+  "hubot-leaderboard",
+  "hubot-wolfram",
+  "hubot-bofh",
+  "hubot-urban-dictionary",
+  "hubot-conspire",
+  "hubot-voting"
+]
