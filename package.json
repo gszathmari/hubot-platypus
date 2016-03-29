@@ -20,7 +20,6 @@
     "hubot-maps": "0.0.2",
     "hubot-mind-blown": "^1.0.0",
     "hubot-pugme": "^0.1.0",
-    "hubot-reactions": "^1.0.4",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
@@ -33,6 +32,7 @@
     "hubot-tell": "^1.2.4",
     "hubot-urban-dictionary": "^1.0.5",
     "hubot-voting": "^1.0.0",
+    "hubot-vtr-scripts": "^1.1.0",
     "hubot-wikipedia": "0.0.4",
     "hubot-wolfram": "^1.0.9",
     "hubot-xkcd": "0.0.3"
