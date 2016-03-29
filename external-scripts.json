@@ -24,5 +24,6 @@
   "hubot-heroku-keepalive",
   "hubot-mind-blown",
   "hubot-rss-reader",
+  "hubot-ical-notifier",
   "hubot-bitly"
 ]
