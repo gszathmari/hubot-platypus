@@ -17,6 +17,7 @@
   "hubot-leaderboard",
   "hubot-wolfram",
   "hubot-bofh",
+  "hubot-slack-utils",
   "hubot-urban-dictionary",
   "hubot-conspire",
   "hubot-voting",
