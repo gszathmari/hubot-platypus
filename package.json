@@ -32,7 +32,6 @@
     "hubot-tell": "^1.2.4",
     "hubot-urban-dictionary": "^1.0.5",
     "hubot-voting": "^1.0.0",
-    "hubot-vtr-scripts": "^1.1.0",
     "hubot-wikipedia": "0.0.4",
     "hubot-wolfram": "^1.0.9",
     "hubot-xkcd": "0.0.3"
