@@ -19,5 +19,7 @@
   "hubot-bofh",
   "hubot-urban-dictionary",
   "hubot-conspire",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-heroku-keepalive",
+  "hubot-mind-blown"
 ]
