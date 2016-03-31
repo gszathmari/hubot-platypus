@@ -36,6 +36,7 @@
     "hubot-voting": "^1.0.0",
     "hubot-wikipedia": "0.0.4",
     "hubot-wolfram": "^1.0.9",
+    "hubot-rss-reader": "0.8.3",
     "hubot-xkcd": "0.0.3"
   },
   "engines": {
