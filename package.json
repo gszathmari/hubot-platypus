@@ -38,7 +38,7 @@
     "hubot-voting": "^1.0.0",
     "hubot-wikipedia": "0.0.4",
     "hubot-wolfram": "^1.0.9",
-    "hubot-schneier": "^1.0.0",
+    "hubot-schneier": "gszathmari/hubot-schneier",
     "hubot-xkcd": "0.0.3"
   },
   "engines": {
