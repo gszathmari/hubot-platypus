@@ -25,5 +25,6 @@
   "hubot-mind-blown",
   "hubot-ical-notifier",
   "hubot-rss-reader",
+  "hubot-schneier",
   "hubot-bitly"
 ]
