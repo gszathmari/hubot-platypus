@@ -5,6 +5,7 @@
   "author": "Gabor Szathmari <gszathmari@gmail.com>",
   "description": "A helpful robot for Platypus Initiative",
   "dependencies": {
+    "coffee-script": "^1.10.0",
     "hubot": "^2.18.0",
     "hubot-bitly": "^1.0.2",
     "hubot-bofh": "^1.0.0",
@@ -22,6 +23,7 @@
     "hubot-mind-blown": "^1.0.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
+    "hubot-rss-reader": "0.8.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-seen": "^0.2.3",
@@ -36,7 +38,6 @@
     "hubot-voting": "^1.0.0",
     "hubot-wikipedia": "0.0.4",
     "hubot-wolfram": "^1.0.9",
-    "hubot-rss-reader": "0.8.3",
     "hubot-xkcd": "0.0.3"
   },
   "engines": {
