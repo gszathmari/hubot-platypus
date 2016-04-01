@@ -1,0 +1,19 @@
+sudo: required
+
+language: node_js
+
+node_js:
+  - "5"
+
+services:
+  - docker
+
+before_script:
+  - docker info
+
+script:
+  - docker build -t gszathmari/hubot-platypus .
+
+after_script:
+  - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+  - test $TRAVIS_BRANCH != 'master' || docker push gszathmari/hubot-platypus:latest

@@ -1,7 +1,6 @@
 [
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-impersonate",
   "hubot-google-images",
   "hubot-google-translate",
@@ -21,7 +20,6 @@
   "hubot-urban-dictionary",
   "hubot-conspire",
   "hubot-voting",
-  "hubot-heroku-keepalive",
   "hubot-mind-blown",
   "hubot-ical-notifier",
   "hubot-rss-reader",
