@@ -17,3 +17,4 @@ script:
 after_script:
   - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
   - test $TRAVIS_BRANCH != 'master' || docker push gszathmari/hubot-platypus:latest
+  - test $TRAVIS_BRANCH != 'master' || bash ./scripts/bluemix.sh
