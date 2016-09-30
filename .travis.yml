@@ -12,7 +12,6 @@ before_script:
   - docker info
 
 script:
-  - npm install
   - docker build -t gszathmari/hubot-platypus .
 
 after_script:
