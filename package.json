@@ -20,7 +20,6 @@
     "hubot-leaderboard": "^0.5.0",
     "hubot-maps": "0.0.2",
     "hubot-mind-blown": "^1.0.0",
-    "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rss-reader": "0.8.3",
     "hubot-rules": "^0.1.1",
