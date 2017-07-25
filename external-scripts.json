@@ -23,5 +23,6 @@
   "hubot-ical-notifier",
   "hubot-rss-reader",
   "hubot-schneier",
-  "hubot-bitly"
+  "hubot-bitly",
+  "hubot-wolfram"
 ]
